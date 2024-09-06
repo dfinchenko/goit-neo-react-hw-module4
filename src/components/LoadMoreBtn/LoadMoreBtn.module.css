@@ -1,0 +1,16 @@
+.loadMoreBlock {
+  display: flex;
+  justify-content: center;
+  margin: 20px;
+}
+
+.loadMoreBtn {
+  width: 10%;
+  padding: 10px 20px;
+  background-color: #3e50b5;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 15px;
+}
